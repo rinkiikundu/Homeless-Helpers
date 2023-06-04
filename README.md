@@ -1,4 +1,4 @@
-# AED-Project-Homeless-Helpers
+# Project-Homeless-Helpers
 
 ## Problem Statement:
 On a single night, more than half a million Americans go homeless, which represents 0.2% of the US population.
