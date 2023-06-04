@@ -8,7 +8,7 @@ Living on the street or in crowded homeless shelters is extremely stressful and 
 We need a system which can help homeless people get proper health care facilities.
 
 ## Solution:
-Homeless Helpers is an application that helps homeless people to get better healthcasre facilities by diminishing the gap between homeless people and hospitals.
+Homeless Helpers is an application that helps homeless people to get better healthcare facilities by diminishing the gap between homeless people and hospitals.
 Homeless people can get their treatment done in nearby hospital by only paying the amount they can afford.
 This application is expected to reduce the health issues faced by homeless people and help in minimizing the health risks.
 
@@ -28,10 +28,10 @@ After successful diagnosis of disease and allocation of hospital Health report o
 - NGO
 - Hospital 
 - Medicine Providers
-- Docotrs
+- Doctors
 - Homeless Person
 - Volunteer
-- Assistant Docotr
+- Assistant Doctor
 
 All these participants are brought together under one digital ecosystem with role based login authentication for management and access of their involved workflows.
 
@@ -56,11 +56,6 @@ All these participants are brought together under one digital ecosystem with rol
 - sendgrid API used for emails
 - itextpdf library used for text to pdf generation.
 
-## Team Members
-
-- Amey Bansod
-- Keerthana satheesh
-- Rinki Kundu
 
 ![Object Model](object-model.jpg)
 ![Class Diagram](class-diagram.jpg)
